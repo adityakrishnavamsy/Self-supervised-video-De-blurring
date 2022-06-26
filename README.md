@@ -8,4 +8,4 @@ Second approach considers the deblurring task as learning problem with the help 
 <br>
 For more information related to the project and detailed explanation please refer to the **Report** attached
 <br>
-The  information realated to the project like the code , detailed oroginal results , detailed methodology etc... are hidden due to non-disclosure agreement with samsung prism.
+The  information realated to the project like the code , detailed original results , detailed methodology etc... are hidden due to non-disclosure agreement with samsung prism.
